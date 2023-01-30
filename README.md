@@ -1,1 +1,1 @@
-# ads_campaign
+# ads_campaign frontend part
